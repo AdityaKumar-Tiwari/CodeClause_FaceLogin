@@ -1,2 +1,2 @@
 # CodeClause_FaceLogin
-Enhanced login security by implementing a real-time face login solution.
+This application is used to Enhanced login security by implementing a real-time face login solution.
